@@ -1,0 +1,24 @@
+{
+  "name": "readexcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chamcong.js",
+  "scripts": {
+    "start": "nodemon chamcong.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhnguyen2332/readExcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhnguyen2332/readExcel/issues"
+  },
+  "homepage": "https://github.com/linhnguyen2332/readExcel#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "xlsx": "^0.16.9"
+  }
+}
